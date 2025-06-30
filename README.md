@@ -29,7 +29,9 @@ MegaBlog is a full-featured blogging platform built with React and Vite. It prov
 - Redux
 - Appwrite
 - ESLint
-
+- Tiny-mce
+- React-Hook-Form
+- Tailwindcss
 ---
 
 # React + Vite
